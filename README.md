@@ -8,4 +8,4 @@
   - Logistic Regression
   - SVC
 # How to use
-  - # comint up
+  - ...
